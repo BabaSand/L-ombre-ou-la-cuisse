@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 75d4c60069be04196b49c24cd77a41c7
+timeCreated: 1425665734
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: aile droite
+    100002: aile gauche
+    100004: bec
+    100006: bone aile droite
+    100008: bone aile gauche
+    100010: bone bout aile droite
+    100012: bone bout aile gauche
+    100014: bone bout patte gauche
+    100016: bone bout pied droit
+    100018: bone patte gauche
+    100020: "bone squelette int\xE9rieur droit"
+    100022: "bone squelette int\xE9rieur gauche"
+    100024: corps
+    100026: crete derriere
+    100028: crete devant
+    100030: crete milieu
+    100032: cuisse droite
+    100034: cuisse gauche
+    100036: oeil droit
+    100038: oeil gauche
+    100040: patte droite
+    100042: patte droite bone
+    100044: patte gauche
+    100046: //RootNode
+    100048: pupille droite
+    100050: pupille gauche
+    100052: queue droite
+    100054: queue gauche
+    100056: queue milieu droite
+    100058: queue milieu gauche
+    100060: squelette principal
+    400000: aile droite
+    400002: aile gauche
+    400004: bec
+    400006: bone aile droite
+    400008: bone aile gauche
+    400010: bone bout aile droite
+    400012: bone bout aile gauche
+    400014: bone bout patte gauche
+    400016: bone bout pied droit
+    400018: bone patte gauche
+    400020: "bone squelette int\xE9rieur droit"
+    400022: "bone squelette int\xE9rieur gauche"
+    400024: corps
+    400026: crete derriere
+    400028: crete devant
+    400030: crete milieu
+    400032: cuisse droite
+    400034: cuisse gauche
+    400036: oeil droit
+    400038: oeil gauche
+    400040: patte droite
+    400042: patte droite bone
+    400044: patte gauche
+    400046: //RootNode
+    400048: pupille droite
+    400050: pupille gauche
+    400052: queue droite
+    400054: queue gauche
+    400056: queue milieu droite
+    400058: queue milieu gauche
+    400060: squelette principal
+    2300000: aile droite
+    2300002: aile gauche
+    2300004: bec
+    2300006: corps
+    2300008: crete derriere
+    2300010: crete devant
+    2300012: crete milieu
+    2300014: oeil droit
+    2300016: oeil gauche
+    2300018: patte droite
+    2300020: patte gauche
+    2300022: pupille droite
+    2300024: pupille gauche
+    2300026: queue droite
+    2300028: queue gauche
+    2300030: queue milieu droite
+    2300032: queue milieu gauche
+    3300000: aile droite
+    3300002: aile gauche
+    3300004: bec
+    3300006: corps
+    3300008: crete derriere
+    3300010: crete devant
+    3300012: crete milieu
+    3300014: oeil droit
+    3300016: oeil gauche
+    3300018: patte droite
+    3300020: patte gauche
+    3300022: pupille droite
+    3300024: pupille gauche
+    3300026: queue droite
+    3300028: queue gauche
+    3300030: queue milieu droite
+    3300032: queue milieu gauche
+    4300000: patte gauche
+    4300002: patte droite
+    4300004: bec
+    4300006: corps
+    4300008: crete derriere
+    4300010: crete milieu
+    4300012: crete devant
+    4300014: oeil droit
+    4300016: oeil gauche
+    4300018: pupille droite
+    4300020: pupille gauche
+    4300022: queue droite
+    4300024: queue gauche
+    4300026: queue milieu droite
+    4300028: queue milieu gauche
+    4300030: aile gauche
+    4300032: aile droite
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
